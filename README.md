@@ -40,6 +40,7 @@ List of supported installation setups for panel and Wings (installations support
 |                  | 9       | :red_circle: \*    |             |
 |                  | 10      | :white_check_mark: | 8.1         |
 |                  | 11      | :white_check_mark: | 8.1         |
+|                  | 12      | :white_check_mark: | 8.1         |
 | CentOS           | 6       | :red_circle:       |             |
 |                  | 7       | :red_circle: \*    |             |
 |                  | 8       | :red_circle: \*    |             |
